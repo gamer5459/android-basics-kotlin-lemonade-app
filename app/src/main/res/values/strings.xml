@@ -20,4 +20,8 @@
     <string name="lemon_drink">Click to drink your lemonade!</string>
     <string name="lemon_empty_glass">Click to start again!</string>
     <string name="squeeze_count">Squeeze count: %1$d, keep squeezing!</string>
+    <string name="tree">Picture of a Lemon Tree</string>
+    <string name="lemon">Picture of a Lemon</string>
+    <string name="full_glass">Picture of a Glass of Lemonade</string>
+    <string name="empty_glass">Picture of an Empty Glass</string>
 </resources>
